@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jordan Hall
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning how to make Convolutional Neural Networks using TensorFlow
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by sending me a message here on github
+- 👀 I’m interested in Natural Language Processing
+- 🌱 I’m currently learning how to make Chatbots using neural networks
+- 📫 How to reach me by sending me a message here on GitHub
