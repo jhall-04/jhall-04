@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jordan Hall
 - 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning how to make Chatbots using neural networks
+- 🌱 I’m currently learning how to build tools for Agentic AI Systems
 - 📫 How to reach me through linkedin https://www.linkedin.com/in/jordan-hall04/
