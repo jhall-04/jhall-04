@@ -21,7 +21,7 @@
 
 
 
-<h3 align="left">Hi I'm Jordan. I'm persuing my B.S. in Computer Science at Florida Polytechnic University with a concentration in Artificial Intelligence.</h3></p>
+<h3 align="left">Hi I'm Jordan. I'm pursuing my B.S. in Computer Science at Florida Polytechnic University with a concentration in Artificial Intelligence.</h3></p>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jhall-04&label=Profile%20views&color=0e75b6&style=flat" alt="jhall-04" /> </p>
